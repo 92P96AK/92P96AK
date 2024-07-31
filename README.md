@@ -1,23 +1,13 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Pradip, a full-time full-stack software developer 👨‍💻 working remotely since 2020 🚀</div>  
   
-
 - 🔭 I’m currently working on [Db Scout](https://github.com/92P96AK/db-scout)  
   
-
 - 🌱 I’m currently learning Rust Programming Language  
   
-
 - ❓ Ask me about anything related to MERN stack React native Mysql/Postgresql/Mongodb and related technologies  
   
-
 - ⚡ Fun fact: JavaScript was created in just 10 days by Brendan Eich in 1995 while he was working at Netscape  
   
-
 <br/>  
 
 
