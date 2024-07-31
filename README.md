@@ -102,9 +102,8 @@
 
 <br/>  
 
-
+### Latest Article   
 [Transitioning from Normalization to Denormalization](https://medium.com/@pradipkharal/transitioning-from-normalization-to-denormalization-025044a63aee)  
-  
 
 <br/>  
 
