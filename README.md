@@ -103,11 +103,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=92P96AK&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 [Transitioning from Normalization to Denormalization](https://medium.com/@pradipkharal/transitioning-from-normalization-to-denormalization-025044a63aee)  
   
 
