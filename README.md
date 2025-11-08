@@ -1,6 +1,6 @@
 ### <div align="center">I'm Pradip, a full-time full-stack software developer 👨‍💻 working remotely since 2020 🚀</div>  
   
-- 🔭 I’m currently working on [Db Scout](https://github.com/92P96AK/db-scout)  
+- 🔭 I’m currently working on [React Timeline Trackpad](https://github.com/92P96AK/timeline_track_pad)  
   
 - 🌱 I’m currently learning Rust Programming Language  
   
